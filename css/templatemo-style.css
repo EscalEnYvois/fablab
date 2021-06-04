@@ -80,9 +80,13 @@ a:hover {
   width : 20%;
 }
 
+.prelien {
+  padding-left : 60px;
+}
+
 .lien {
   color : gold;
-  padding-right : 120px;
+  padding-right : 70px;
   float: right;
 }
 
@@ -118,8 +122,13 @@ a:hover {
   background: transparent;
 }
 
+.parallax-window2 img {
+  max-height: 50px;
+  max-width: 50px;
+}
 #tmContact {
-  min-height: 1197px;
+  margin-left: 10px;
+  min-height: 900px;
 }
 
 .tm-welcome-container {
@@ -185,11 +194,6 @@ a:hover {
   text-align: center;
 }
 
-.tm-portfolio-name img {
-  max-height: 200px;
-  max-width: 200px;
-}
-
 .tm-portfolio-description {
   width: calc(100% - 330px);
   padding: 20px 45px;
@@ -232,7 +236,7 @@ p {
 */
 
 #tmContact {
-  padding-top: 95px;
+  padding-top: 5px;
 }
 
 .tm-contact-item {
@@ -295,6 +299,8 @@ p {
 }
 
 .tm-copyright-text {
+  margin-left: 1000px;
+  float:center;
   margin-bottom: 30px;
 }
 
