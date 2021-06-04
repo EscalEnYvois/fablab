@@ -194,6 +194,12 @@ a:hover {
   text-align: center;
 }
 
+.tm-portfolio-name img 
+{
+  max-width : 150px;
+  max-height : 150px;
+}
+
 .tm-portfolio-description {
   width: calc(100% - 330px);
   padding: 20px 45px;
