@@ -543,7 +543,6 @@ a.menu-toggle-btn {
 @media only screen 
 and (min-device-width : 320px) 
 and (max-width : 419px)	{
-	.body { overflow-x : hidden;}
 	.hex	{ width: 50%; float: left; }
 	.templatemorow	{ margin: 0 5%; }
 	.hexagon2 
@@ -562,8 +561,7 @@ and (max-width : 419px)	{
 	.templatemo_servicecol2	{ margin-top: 10%; float: left;}
 	.templatemo_contactmap	{ width: 250px; height: 292px; float: left; }
 	.templatemo_contactmap img { position: absolute; width: 250px; height: 292px; top: 0px; left: 15px; }
-	.pb-0 { float : left;}
-	.mb-0 { float : left; display : block; }
+	.tm-portfolio-description { position: relative;}
 	#templatemo_map {
     width: 100%;
     height: 292px;
