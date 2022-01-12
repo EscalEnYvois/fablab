@@ -561,6 +561,7 @@ and (max-width : 419px)	{
 	.templatemo_servicecol2	{ margin-top: 10%; float: left;}
 	.templatemo_contactmap	{ width: 250px; height: 292px; float: left; }
 	.templatemo_contactmap img{ position: absolute; width: 250px; height: 292px; top: 0px; left: 15px; }
+	.tm-portfolio-description {float: left; margin-right :10%;}
 	#templatemo_map {
     width: 100%;
     height: 292px;
@@ -617,7 +618,7 @@ and (max-width : 559px)	{
 	.hexagonservices a.hlinkbott	{ width: 200px; }
 	.templatemo_servicerow	{margin: -10% 30px 0px 30px; }
 	.templatemo_hexservices	{ width: 100%; margin-top: 5%; float: left; }
-	.tm-portfolio-description {float: left;}
+	
 
 }
 @media(min-width:768px) and (max-width: 991px){ 
