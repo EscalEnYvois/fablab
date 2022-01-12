@@ -561,8 +561,8 @@ and (max-width : 419px)	{
 	.templatemo_servicecol2	{ margin-top: 10%; float: left;}
 	.templatemo_contactmap	{ width: 250px; height: 292px; float: left; }
 	.templatemo_contactmap img { position: absolute; width: 250px; height: 292px; top: 0px; left: 15px; }
-	.pb-0 { text-align : center;}
-	.mb-0 { text-align : center; }
+	.pb-0 { float : left;}
+	.mb-0 { float : left; display : block; }
 	#templatemo_map {
     width: 100%;
     height: 292px;
