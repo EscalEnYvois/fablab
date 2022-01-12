@@ -617,6 +617,7 @@ and (max-width : 559px)	{
 	.hexagonservices a.hlinkbott	{ width: 200px; }
 	.templatemo_servicerow	{margin: -10% 30px 0px 30px; }
 	.templatemo_hexservices	{ width: 100%; margin-top: 5%; float: left; }
+	.tm-portfolio-description {float: left;}
 
 }
 @media(min-width:768px) and (max-width: 991px){ 
