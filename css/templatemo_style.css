@@ -543,6 +543,7 @@ a.menu-toggle-btn {
 @media only screen 
 and (min-device-width : 320px) 
 and (max-width : 419px)	{
+	.body { overflow-x : hidden;}
 	.hex	{ width: 50%; float: left; }
 	.templatemorow	{ margin: 0 5%; }
 	.hexagon2 
