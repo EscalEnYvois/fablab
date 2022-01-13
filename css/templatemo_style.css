@@ -563,8 +563,7 @@ and (max-width : 419px)	{
 	.templatemo_contactmap img { position: relative; width: 250px; height: 292px; top: 0px; left: 15px; }
 	.tm-portfolio-description { position: absolute;
 	left: 0;
-	top: 10px;
-	width: 50%;
+	width: 100%;
 	padding: 0;
 	margin: 0;
 	border: none;
