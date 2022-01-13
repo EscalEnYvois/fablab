@@ -561,7 +561,7 @@ and (max-width : 419px)	{
 	.templatemo_servicecol2	{ margin-top: 10%; float: left;}
 	.templatemo_contactmap	{ width: 250px; height: 292px; float: left; }
 	.templatemo_contactmap img { position: absolute; width: 250px; height: 292px; top: 0px; left: 15px; }
-	.body {position: absolute;
+	.tm-portfolio-description { position: absolute;
 	left: 0;
 	width: 100%;
 	padding: 0;
