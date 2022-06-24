@@ -594,6 +594,8 @@ and (max-width : 559px)	{
 	.templatemo_loadmore	{ margin-top: 50%; }
 	.templatemo_servicetxt	{ margin-top: 230px;}
 	.templatemo_servicecol2	{ margin-top: 7%; float: left; }
+	.templatemo_contactmap	{ width: 250px; height: 292px; float: left; }
+	.templatemo_contactmap img { position: relative; width: 250px; height: 292px; top: 0px; left: 15px; bottom: 15px;}
 	.blok	{ left: 22%; }
 
 	
@@ -616,6 +618,8 @@ and (max-width : 559px)	{
 	.templatemo_loadmore	{ margin-top: 48%; }
 	.templatemo_servicetxt	{ margin-top: 230px; }
 	.templatemo_servicecol2	{ margin-top: 7%; float: left; }
+	.templatemo_contactmap	{ width: 250px; height: 292px; float: left; }
+	.templatemo_contactmap img { position: relative; width: 250px; height: 292px; top: 0px; left: 15px; bottom: 15px;}
 	.blok	{ left: 33%; }
 
 }
@@ -646,6 +650,8 @@ and (max-width : 559px)	{
 	.hexagonservices a.hlinkbott	{ width: 200px; }
 	.templatemo_servicerow	{ margin: -10% 30px 0px 30px; }
 	.templatemo_hexservices	{ width: 100%; margin-top: 5%; }
+	.templatemo_contactmap	{ width: 250px; height: 292px; float: left; }
+	.templatemo_contactmap img { position: relative; width: 250px; height: 292px; top: 0px; left: 15px; bottom: 15px;}
 	.blok	{ left: 33%; }
 
 	}
