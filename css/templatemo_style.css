@@ -568,6 +568,7 @@ and (max-width : 419px)	{
 	padding: 0;
 	margin: 0;
 	border: none;
+	float: left;
 	}
 	#templatemo_map {
     width: 100%;
